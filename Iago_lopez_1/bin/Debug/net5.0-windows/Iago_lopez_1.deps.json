@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Iago_lopez_1/1.0.0": {
+        "runtime": {
+          "Iago_lopez_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Iago_lopez_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,57 @@
+C:\Users\ilgia\source\repos\Ejercicio2\bin\Debug\net5.0-windows\Ejercicio2.exe
+C:\Users\ilgia\source\repos\Ejercicio2\bin\Debug\net5.0-windows\Ejercicio2.deps.json
+C:\Users\ilgia\source\repos\Ejercicio2\bin\Debug\net5.0-windows\Ejercicio2.runtimeconfig.json
+C:\Users\ilgia\source\repos\Ejercicio2\bin\Debug\net5.0-windows\Ejercicio2.runtimeconfig.dev.json
+C:\Users\ilgia\source\repos\Ejercicio2\bin\Debug\net5.0-windows\Ejercicio2.dll
+C:\Users\ilgia\source\repos\Ejercicio2\bin\Debug\net5.0-windows\ref\Ejercicio2.dll
+C:\Users\ilgia\source\repos\Ejercicio2\bin\Debug\net5.0-windows\Ejercicio2.pdb
+C:\Users\ilgia\source\repos\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\ilgia\source\repos\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.csproj.GenerateResource.cache
+C:\Users\ilgia\source\repos\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilgia\source\repos\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\ilgia\source\repos\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.AssemblyInfo.cs
+C:\Users\ilgia\source\repos\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\ilgia\source\repos\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.dll
+C:\Users\ilgia\source\repos\Ejercicio2\obj\Debug\net5.0-windows\ref\Ejercicio2.dll
+C:\Users\ilgia\source\repos\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.pdb
+C:\Users\ilgia\source\repos\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.genruntimeconfig.cache
+C:\Users\ilgia\source\repos\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.Properties.Resources.resources
+C:\Users\ilgia\source\repos\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.Combate_pokemon.resources
+G:\Prog 2\Combate pokemon\Ejercicio2\bin\Debug\net5.0-windows\Ejercicio2.exe
+G:\Prog 2\Combate pokemon\Ejercicio2\bin\Debug\net5.0-windows\Ejercicio2.deps.json
+G:\Prog 2\Combate pokemon\Ejercicio2\bin\Debug\net5.0-windows\Ejercicio2.runtimeconfig.json
+G:\Prog 2\Combate pokemon\Ejercicio2\bin\Debug\net5.0-windows\Ejercicio2.runtimeconfig.dev.json
+G:\Prog 2\Combate pokemon\Ejercicio2\bin\Debug\net5.0-windows\Ejercicio2.dll
+G:\Prog 2\Combate pokemon\Ejercicio2\bin\Debug\net5.0-windows\ref\Ejercicio2.dll
+G:\Prog 2\Combate pokemon\Ejercicio2\bin\Debug\net5.0-windows\Ejercicio2.pdb
+G:\Prog 2\Combate pokemon\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.csproj.AssemblyReference.cache
+G:\Prog 2\Combate pokemon\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.Combate_pokemon.resources
+G:\Prog 2\Combate pokemon\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.Properties.Resources.resources
+G:\Prog 2\Combate pokemon\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.csproj.GenerateResource.cache
+G:\Prog 2\Combate pokemon\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Prog 2\Combate pokemon\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.AssemblyInfoInputs.cache
+G:\Prog 2\Combate pokemon\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.AssemblyInfo.cs
+G:\Prog 2\Combate pokemon\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.csproj.CoreCompileInputs.cache
+G:\Prog 2\Combate pokemon\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.dll
+G:\Prog 2\Combate pokemon\Ejercicio2\obj\Debug\net5.0-windows\ref\Ejercicio2.dll
+G:\Prog 2\Combate pokemon\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.pdb
+G:\Prog 2\Combate pokemon\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.genruntimeconfig.cache
+F:\Prog 2\Combate pokemon\Ejercicio2\bin\Debug\net5.0-windows\Ejercicio2.exe
+F:\Prog 2\Combate pokemon\Ejercicio2\bin\Debug\net5.0-windows\Ejercicio2.deps.json
+F:\Prog 2\Combate pokemon\Ejercicio2\bin\Debug\net5.0-windows\Ejercicio2.runtimeconfig.json
+F:\Prog 2\Combate pokemon\Ejercicio2\bin\Debug\net5.0-windows\Ejercicio2.runtimeconfig.dev.json
+F:\Prog 2\Combate pokemon\Ejercicio2\bin\Debug\net5.0-windows\Ejercicio2.dll
+F:\Prog 2\Combate pokemon\Ejercicio2\bin\Debug\net5.0-windows\ref\Ejercicio2.dll
+F:\Prog 2\Combate pokemon\Ejercicio2\bin\Debug\net5.0-windows\Ejercicio2.pdb
+F:\Prog 2\Combate pokemon\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.csproj.AssemblyReference.cache
+F:\Prog 2\Combate pokemon\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.Combate_pokemon.resources
+F:\Prog 2\Combate pokemon\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.Properties.Resources.resources
+F:\Prog 2\Combate pokemon\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.csproj.GenerateResource.cache
+F:\Prog 2\Combate pokemon\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Prog 2\Combate pokemon\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.AssemblyInfoInputs.cache
+F:\Prog 2\Combate pokemon\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.AssemblyInfo.cs
+F:\Prog 2\Combate pokemon\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.csproj.CoreCompileInputs.cache
+F:\Prog 2\Combate pokemon\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.dll
+F:\Prog 2\Combate pokemon\Ejercicio2\obj\Debug\net5.0-windows\ref\Ejercicio2.dll
+F:\Prog 2\Combate pokemon\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.pdb
+F:\Prog 2\Combate pokemon\Ejercicio2\obj\Debug\net5.0-windows\Ejercicio2.genruntimeconfig.cache

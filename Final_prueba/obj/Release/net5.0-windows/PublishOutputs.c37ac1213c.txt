@@ -1,0 +1,5 @@
+G:\Prog 2\Final_prueba\Final_prueba.exe
+G:\Prog 2\Final_prueba\Final_prueba.dll
+G:\Prog 2\Final_prueba\Final_prueba.deps.json
+G:\Prog 2\Final_prueba\Final_prueba.runtimeconfig.json
+G:\Prog 2\Final_prueba\Final_prueba.pdb

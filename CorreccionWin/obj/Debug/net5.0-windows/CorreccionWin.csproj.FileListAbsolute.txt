@@ -1,0 +1,36 @@
+D:\Raul\Clase\CorreccionWin\bin\Debug\net5.0-windows\CorreccionWin.exe
+D:\Raul\Clase\CorreccionWin\bin\Debug\net5.0-windows\CorreccionWin.deps.json
+D:\Raul\Clase\CorreccionWin\bin\Debug\net5.0-windows\CorreccionWin.runtimeconfig.json
+D:\Raul\Clase\CorreccionWin\bin\Debug\net5.0-windows\CorreccionWin.runtimeconfig.dev.json
+D:\Raul\Clase\CorreccionWin\bin\Debug\net5.0-windows\CorreccionWin.dll
+D:\Raul\Clase\CorreccionWin\bin\Debug\net5.0-windows\ref\CorreccionWin.dll
+D:\Raul\Clase\CorreccionWin\bin\Debug\net5.0-windows\CorreccionWin.pdb
+D:\Raul\Clase\CorreccionWin\obj\Debug\net5.0-windows\CorreccionWin.csproj.AssemblyReference.cache
+D:\Raul\Clase\CorreccionWin\obj\Debug\net5.0-windows\CorreccionWin.MainF.resources
+D:\Raul\Clase\CorreccionWin\obj\Debug\net5.0-windows\CorreccionWin.csproj.GenerateResource.cache
+D:\Raul\Clase\CorreccionWin\obj\Debug\net5.0-windows\CorreccionWin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Raul\Clase\CorreccionWin\obj\Debug\net5.0-windows\CorreccionWin.AssemblyInfoInputs.cache
+D:\Raul\Clase\CorreccionWin\obj\Debug\net5.0-windows\CorreccionWin.AssemblyInfo.cs
+D:\Raul\Clase\CorreccionWin\obj\Debug\net5.0-windows\CorreccionWin.csproj.CoreCompileInputs.cache
+D:\Raul\Clase\CorreccionWin\obj\Debug\net5.0-windows\CorreccionWin.dll
+D:\Raul\Clase\CorreccionWin\obj\Debug\net5.0-windows\ref\CorreccionWin.dll
+D:\Raul\Clase\CorreccionWin\obj\Debug\net5.0-windows\CorreccionWin.pdb
+D:\Raul\Clase\CorreccionWin\obj\Debug\net5.0-windows\CorreccionWin.genruntimeconfig.cache
+F:\Prog 2\CorreccionWin\bin\Debug\net5.0-windows\CorreccionWin.exe
+F:\Prog 2\CorreccionWin\bin\Debug\net5.0-windows\CorreccionWin.deps.json
+F:\Prog 2\CorreccionWin\bin\Debug\net5.0-windows\CorreccionWin.runtimeconfig.json
+F:\Prog 2\CorreccionWin\bin\Debug\net5.0-windows\CorreccionWin.runtimeconfig.dev.json
+F:\Prog 2\CorreccionWin\bin\Debug\net5.0-windows\CorreccionWin.dll
+F:\Prog 2\CorreccionWin\bin\Debug\net5.0-windows\ref\CorreccionWin.dll
+F:\Prog 2\CorreccionWin\bin\Debug\net5.0-windows\CorreccionWin.pdb
+F:\Prog 2\CorreccionWin\obj\Debug\net5.0-windows\CorreccionWin.csproj.AssemblyReference.cache
+F:\Prog 2\CorreccionWin\obj\Debug\net5.0-windows\CorreccionWin.MainF.resources
+F:\Prog 2\CorreccionWin\obj\Debug\net5.0-windows\CorreccionWin.csproj.GenerateResource.cache
+F:\Prog 2\CorreccionWin\obj\Debug\net5.0-windows\CorreccionWin.GeneratedMSBuildEditorConfig.editorconfig
+F:\Prog 2\CorreccionWin\obj\Debug\net5.0-windows\CorreccionWin.AssemblyInfoInputs.cache
+F:\Prog 2\CorreccionWin\obj\Debug\net5.0-windows\CorreccionWin.AssemblyInfo.cs
+F:\Prog 2\CorreccionWin\obj\Debug\net5.0-windows\CorreccionWin.csproj.CoreCompileInputs.cache
+F:\Prog 2\CorreccionWin\obj\Debug\net5.0-windows\CorreccionWin.dll
+F:\Prog 2\CorreccionWin\obj\Debug\net5.0-windows\ref\CorreccionWin.dll
+F:\Prog 2\CorreccionWin\obj\Debug\net5.0-windows\CorreccionWin.pdb
+F:\Prog 2\CorreccionWin\obj\Debug\net5.0-windows\CorreccionWin.genruntimeconfig.cache

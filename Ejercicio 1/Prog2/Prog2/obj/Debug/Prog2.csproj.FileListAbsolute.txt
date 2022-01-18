@@ -1,0 +1,20 @@
+G:\Prog 2\tarea y tal\Prog2\Prog2\bin\Debug\Prog2.exe.config
+G:\Prog 2\tarea y tal\Prog2\Prog2\bin\Debug\Prog2.exe
+G:\Prog 2\tarea y tal\Prog2\Prog2\bin\Debug\Prog2.pdb
+G:\Prog 2\tarea y tal\Prog2\Prog2\obj\Debug\Prog2.csprojAssemblyReference.cache
+G:\Prog 2\tarea y tal\Prog2\Prog2\obj\Debug\Prog2.Form1.resources
+G:\Prog 2\tarea y tal\Prog2\Prog2\obj\Debug\Prog2.Properties.Resources.resources
+G:\Prog 2\tarea y tal\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.cache
+G:\Prog 2\tarea y tal\Prog2\Prog2\obj\Debug\Prog2.csproj.CoreCompileInputs.cache
+G:\Prog 2\tarea y tal\Prog2\Prog2\obj\Debug\Prog2.exe
+G:\Prog 2\tarea y tal\Prog2\Prog2\obj\Debug\Prog2.pdb
+F:\Prog 2\Ejercicio 1\Prog2\Prog2\bin\Debug\Prog2.exe.config
+F:\Prog 2\Ejercicio 1\Prog2\Prog2\bin\Debug\Prog2.exe
+F:\Prog 2\Ejercicio 1\Prog2\Prog2\bin\Debug\Prog2.pdb
+F:\Prog 2\Ejercicio 1\Prog2\Prog2\obj\Debug\Prog2.csproj.AssemblyReference.cache
+F:\Prog 2\Ejercicio 1\Prog2\Prog2\obj\Debug\Prog2.Properties.Resources.resources
+F:\Prog 2\Ejercicio 1\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.cache
+F:\Prog 2\Ejercicio 1\Prog2\Prog2\obj\Debug\Prog2.csproj.CoreCompileInputs.cache
+F:\Prog 2\Ejercicio 1\Prog2\Prog2\obj\Debug\Prog2.exe
+F:\Prog 2\Ejercicio 1\Prog2\Prog2\obj\Debug\Prog2.pdb
+F:\Prog 2\Ejercicio 1\Prog2\Prog2\obj\Debug\Prog2.ModifyProgressBarColor.resources

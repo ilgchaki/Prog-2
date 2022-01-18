@@ -1,0 +1,56 @@
+F:\Prog 2\Practica 1\bin\Debug\net5.0-windows\Practica 1.exe
+F:\Prog 2\Practica 1\bin\Debug\net5.0-windows\Practica 1.deps.json
+F:\Prog 2\Practica 1\bin\Debug\net5.0-windows\Practica 1.runtimeconfig.json
+F:\Prog 2\Practica 1\bin\Debug\net5.0-windows\Practica 1.runtimeconfig.dev.json
+F:\Prog 2\Practica 1\bin\Debug\net5.0-windows\Practica 1.dll
+F:\Prog 2\Practica 1\bin\Debug\net5.0-windows\ref\Practica 1.dll
+F:\Prog 2\Practica 1\bin\Debug\net5.0-windows\Practica 1.pdb
+F:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.csproj.AssemblyReference.cache
+F:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica_1.Form1.resources
+F:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.csproj.GenerateResource.cache
+F:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.AssemblyInfoInputs.cache
+F:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.AssemblyInfo.cs
+F:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.csproj.CoreCompileInputs.cache
+F:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.dll
+F:\Prog 2\Practica 1\obj\Debug\net5.0-windows\ref\Practica 1.dll
+F:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.pdb
+F:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.genruntimeconfig.cache
+F:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica_1.Form2.resources
+G:\Prog 2\Practica 1\bin\Debug\net5.0-windows\Practica 1.exe
+G:\Prog 2\Practica 1\bin\Debug\net5.0-windows\Practica 1.deps.json
+G:\Prog 2\Practica 1\bin\Debug\net5.0-windows\Practica 1.runtimeconfig.json
+G:\Prog 2\Practica 1\bin\Debug\net5.0-windows\Practica 1.runtimeconfig.dev.json
+G:\Prog 2\Practica 1\bin\Debug\net5.0-windows\Practica 1.dll
+G:\Prog 2\Practica 1\bin\Debug\net5.0-windows\ref\Practica 1.dll
+G:\Prog 2\Practica 1\bin\Debug\net5.0-windows\Practica 1.pdb
+G:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.csproj.AssemblyReference.cache
+G:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica_1.Form1.resources
+G:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica_1.Form2.resources
+G:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.csproj.GenerateResource.cache
+G:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.AssemblyInfoInputs.cache
+G:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.AssemblyInfo.cs
+G:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.csproj.CoreCompileInputs.cache
+G:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.dll
+G:\Prog 2\Practica 1\obj\Debug\net5.0-windows\ref\Practica 1.dll
+G:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.pdb
+G:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.genruntimeconfig.cache
+E:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.csproj.AssemblyReference.cache
+E:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica_1.Puntos_calc.resources
+E:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.csproj.GenerateResource.cache
+E:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.AssemblyInfoInputs.cache
+E:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.AssemblyInfo.cs
+E:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.csproj.CoreCompileInputs.cache
+E:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.dll
+E:\Prog 2\Practica 1\obj\Debug\net5.0-windows\ref\Practica 1.dll
+E:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.pdb
+E:\Prog 2\Practica 1\bin\Debug\net5.0-windows\Practica 1.exe
+E:\Prog 2\Practica 1\bin\Debug\net5.0-windows\Practica 1.deps.json
+E:\Prog 2\Practica 1\bin\Debug\net5.0-windows\Practica 1.runtimeconfig.json
+E:\Prog 2\Practica 1\bin\Debug\net5.0-windows\Practica 1.runtimeconfig.dev.json
+E:\Prog 2\Practica 1\bin\Debug\net5.0-windows\Practica 1.dll
+E:\Prog 2\Practica 1\bin\Debug\net5.0-windows\ref\Practica 1.dll
+E:\Prog 2\Practica 1\bin\Debug\net5.0-windows\Practica 1.pdb
+E:\Prog 2\Practica 1\obj\Debug\net5.0-windows\Practica 1.genruntimeconfig.cache

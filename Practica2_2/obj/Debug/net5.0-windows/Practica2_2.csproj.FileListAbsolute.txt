@@ -1,0 +1,36 @@
+C:\Users\ilgia\source\repos\Practica2_2\bin\Debug\net5.0-windows\Practica2_2.exe
+C:\Users\ilgia\source\repos\Practica2_2\bin\Debug\net5.0-windows\Practica2_2.deps.json
+C:\Users\ilgia\source\repos\Practica2_2\bin\Debug\net5.0-windows\Practica2_2.runtimeconfig.json
+C:\Users\ilgia\source\repos\Practica2_2\bin\Debug\net5.0-windows\Practica2_2.runtimeconfig.dev.json
+C:\Users\ilgia\source\repos\Practica2_2\bin\Debug\net5.0-windows\Practica2_2.dll
+C:\Users\ilgia\source\repos\Practica2_2\bin\Debug\net5.0-windows\ref\Practica2_2.dll
+C:\Users\ilgia\source\repos\Practica2_2\bin\Debug\net5.0-windows\Practica2_2.pdb
+C:\Users\ilgia\source\repos\Practica2_2\obj\Debug\net5.0-windows\Practica2_2.csproj.AssemblyReference.cache
+C:\Users\ilgia\source\repos\Practica2_2\obj\Debug\net5.0-windows\Practica2_2.Form1.resources
+C:\Users\ilgia\source\repos\Practica2_2\obj\Debug\net5.0-windows\Practica2_2.csproj.GenerateResource.cache
+C:\Users\ilgia\source\repos\Practica2_2\obj\Debug\net5.0-windows\Practica2_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilgia\source\repos\Practica2_2\obj\Debug\net5.0-windows\Practica2_2.AssemblyInfoInputs.cache
+C:\Users\ilgia\source\repos\Practica2_2\obj\Debug\net5.0-windows\Practica2_2.AssemblyInfo.cs
+C:\Users\ilgia\source\repos\Practica2_2\obj\Debug\net5.0-windows\Practica2_2.csproj.CoreCompileInputs.cache
+C:\Users\ilgia\source\repos\Practica2_2\obj\Debug\net5.0-windows\Practica2_2.dll
+C:\Users\ilgia\source\repos\Practica2_2\obj\Debug\net5.0-windows\ref\Practica2_2.dll
+C:\Users\ilgia\source\repos\Practica2_2\obj\Debug\net5.0-windows\Practica2_2.pdb
+C:\Users\ilgia\source\repos\Practica2_2\obj\Debug\net5.0-windows\Practica2_2.genruntimeconfig.cache
+E:\Prog 2\Practica2_2\bin\Debug\net5.0-windows\Practica2_2.exe
+E:\Prog 2\Practica2_2\bin\Debug\net5.0-windows\Practica2_2.deps.json
+E:\Prog 2\Practica2_2\bin\Debug\net5.0-windows\Practica2_2.runtimeconfig.json
+E:\Prog 2\Practica2_2\bin\Debug\net5.0-windows\Practica2_2.runtimeconfig.dev.json
+E:\Prog 2\Practica2_2\bin\Debug\net5.0-windows\Practica2_2.dll
+E:\Prog 2\Practica2_2\bin\Debug\net5.0-windows\ref\Practica2_2.dll
+E:\Prog 2\Practica2_2\bin\Debug\net5.0-windows\Practica2_2.pdb
+E:\Prog 2\Practica2_2\obj\Debug\net5.0-windows\Practica2_2.csproj.AssemblyReference.cache
+E:\Prog 2\Practica2_2\obj\Debug\net5.0-windows\Practica2_2.Equipo.resources
+E:\Prog 2\Practica2_2\obj\Debug\net5.0-windows\Practica2_2.csproj.GenerateResource.cache
+E:\Prog 2\Practica2_2\obj\Debug\net5.0-windows\Practica2_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Prog 2\Practica2_2\obj\Debug\net5.0-windows\Practica2_2.AssemblyInfoInputs.cache
+E:\Prog 2\Practica2_2\obj\Debug\net5.0-windows\Practica2_2.AssemblyInfo.cs
+E:\Prog 2\Practica2_2\obj\Debug\net5.0-windows\Practica2_2.csproj.CoreCompileInputs.cache
+E:\Prog 2\Practica2_2\obj\Debug\net5.0-windows\Practica2_2.dll
+E:\Prog 2\Practica2_2\obj\Debug\net5.0-windows\ref\Practica2_2.dll
+E:\Prog 2\Practica2_2\obj\Debug\net5.0-windows\Practica2_2.pdb
+E:\Prog 2\Practica2_2\obj\Debug\net5.0-windows\Practica2_2.genruntimeconfig.cache
